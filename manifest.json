@@ -1,0 +1,18 @@
+{
+  "name": "TukTuk Pro Admin - NexiaPro™",
+  "short_name": "TukTuk Admin",
+  "description": "Private Cryptographic License Key Generator for TukTuk Meter Pro by NexiaPro™",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#090d16",
+  "theme_color": "#ef4444",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
